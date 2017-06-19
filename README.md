@@ -1,6 +1,6 @@
 # MaktubLib
 ### Using : https://jitpack.io/ to get link library from github.
-How to using with android studio.
+### How to using with android studio.
 ### Add it in your root build.gradle at the end of repositories:
 
 	allprojects {
