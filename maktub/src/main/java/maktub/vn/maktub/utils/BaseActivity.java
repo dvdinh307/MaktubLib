@@ -1,4 +1,4 @@
-package maktub.vn.maktublib.utils;
+package maktub.vn.maktub.utils;
 
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
